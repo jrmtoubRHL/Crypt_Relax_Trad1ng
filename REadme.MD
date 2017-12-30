@@ -8,10 +8,8 @@
 
 ## Code structure
 
-* Historic_data : prices , by day, hour
-
+* Get_data : Data (get prices etc and storage)
 * Back_tracking : Test strategy, replay
-
 * Execution_prod : Apply strategy
 
 
