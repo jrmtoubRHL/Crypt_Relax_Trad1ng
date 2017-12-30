@@ -2,7 +2,7 @@
 
 ## Principles:
 
-[!alt text](21vcgb.jpg)
+![alt text](21vcgb.jpg)
 
 
 
